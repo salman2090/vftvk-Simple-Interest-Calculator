@@ -1,4 +1,38 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:black;
+    text-align: center;
+    
+}
+h1{color:grey;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+.container{
+    background-color: white;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+    text-align: center;
+    
+}
+.main-text{
+    display: inline-block;
+    text-align: left;
+}
+#principal {
+    margin-bottom: 10px;
+}
+#rate {
+    margin-bottom: 10px;
+}
+#years {
+    margin-bottom: 10px;
+}
+#btn {
+    margin-bottom: 10px;
+}
+.footer{
+    text-align: left;
+    margin-top: 10px;
+}
